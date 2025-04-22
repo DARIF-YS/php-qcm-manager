@@ -1,0 +1,100 @@
+#questionsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; /* Augmente l'espace entre les questions */
+    justify-content: flex-start;
+}
+
+form {
+    max-width: 100%;
+    background: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+label, input, textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.question td {
+    width: 100%;
+}
+.question {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    background: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    width: 100%; 
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    
+}
+.delete-btn {
+    top: 10px;
+    right: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    background: rgb(230, 219, 219);
+    color: rgb(226, 27, 27);
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+}
+.delete-btn:hover {
+    background: darkred;
+}
+.submitbtn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.addbtn {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 6px;
+}
+.btn-container {
+    display: flex;
+    justify-content: right;
+    
+}
+
+button:hover {
+    background: #0056b3;
+}
+.reponses-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.question input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.question label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}
+.question select {
+    width: 49%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: white;
+}
