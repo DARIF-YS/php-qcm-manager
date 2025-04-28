@@ -12,8 +12,8 @@
                     <?= $translations['gestion_qcm'] ?>
                 </button>
                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <li><a class="dropdown-item" href="../pages/ListerQCM.php?lang=<?= $_GET['lang'] ?>">Lister QCM</a></li>
-                    <li><a class="dropdown-item" href="../pages/AjoutQCM.php?lang=<?= $_GET['lang']?>">Ajouter QCM</a></li>
+                    <li><a class="dropdown-item" href="../pages/ListerQCM.php?lang=<?= $_GET['lang'] ?? 'fr' ?>">Lister QCM</a></li>
+                    <li><a class="dropdown-item" href="../pages/AjoutQCM.php?lang=<?= $_GET['lang'] ?? 'fr' ?>">Ajouter QCM</a></li>
                 </ul>
             </div>
 

@@ -22,6 +22,18 @@
     </style>
 </head>
 <body>
+<div class="container">
+  <div class="position-absolute top-0 start-50 translate-middle-x mt-3 text-center">
+
+    <a href="./pages/about.php" class="btn text-info">
+        <img src="./assets/icons/INSEA_logo.png" alt="À propos" style="width: 80px; height: 80px;"><br>
+     <hr class="hr hr-blurry" />
+        💬 About the team & project
+     <hr class="hr hr-blurry" />
+
+    </a>
+  </div>
+</div>
     <div class="center">
         <form action="./scripts/login.php" method="POST" >
             <?php if (isset($_GET['message'])) {?>

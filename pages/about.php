@@ -65,7 +65,7 @@
       <div class="vr vr-blurry" style="height: 175px;"></div>
       <!-- Développeur 2 -->
       <div class="developer-card text-center">
-        <img src="../assets/image/about_dev1.jpg" alt="Développeuse">
+        <img src="../assets/image/about_dev2.jpg" alt="Développeuse">
         <h6 class="fw-bold mb-0">OUCHAKE Younes</h6>
         <small class="text-muted">M1 Student - INSEA Rabat</small>
       </div>
