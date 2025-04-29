@@ -1,6 +1,6 @@
 # 📝 Application Web de Gestion des QCM
 
-<img src="assets/images/banner.png" alt="Bannière de l'application" width="100%" height="60%" />
+<img src="assets/image/banner.png" alt="Bannière de l'application" width="100%" height="60%" />
 
 Une application web développée en PHP permettant la gestion des QCM (Questionnaires à Choix Multiples). Elle est conçue pour deux types d’utilisateurs : **administrateur** et **étudiant**.
 
@@ -30,14 +30,6 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 - **Frontend** : HTML5, CSS3, JavaScript, Bootstrap
 - **Serveur local** : XAMPP
 - **Autres outils** : Git, GitHub
-
----
-
-## ⚙️ Installation et lancement
-
-**Cloner le dépôt** :
-```bash
-git clone https://github.com/DARIF-YS/InseaQuiz.git
 
 ---
 

@@ -4,3 +4,4 @@ assets/*
 !assets/css
 !assets/js
 tricks/
+.gitignore
