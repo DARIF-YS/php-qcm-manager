@@ -1,5 +1,6 @@
 # 📝 Application Web de Gestion des QCM
 
+
 Une application web développée en PHP permettant la gestion des QCM (Questionnaires à Choix Multiples). Elle est conçue pour deux types d’utilisateurs : **administrateur** et **étudiant**.
 
 ## 📌 Fonctionnalités
@@ -26,7 +27,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 ## 🛠️ Technologies utilisées
 
 - **Langage Backend** : PHP
-- **Base de données** : MySQL / MySQL
+- **Base de données** : MySQL
 - **Frontend** : HTML5, CSS3, JavaScript, Bootstrap
 - **Serveur local** : XAMPP
 - **Autres outils** : Git, GitHub
