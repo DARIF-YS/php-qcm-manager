@@ -1,6 +1,6 @@
 # 📝 Application Web de Gestion des QCM
 
-![Bannière de l'application](assets/image/banner.png)
+<img src="assets/image/banner.png" alt="Bannière de l'application" width="100%" height="60%" />
 
 Une application web développée en PHP permettant la gestion des QCM (Questionnaires à Choix Multiples). Elle est conçue pour deux types d’utilisateurs : **administrateur** et **étudiant**.
 
