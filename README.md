@@ -1,7 +1,5 @@
 # 📝 Application Web de Gestion des QCM
 
-<img src="assets/image/banner.png" alt="Bannière de l'application" width="100%" height="60%" />
-
 Une application web développée en PHP permettant la gestion des QCM (Questionnaires à Choix Multiples). Elle est conçue pour deux types d’utilisateurs : **administrateur** et **étudiant**.
 
 ---
@@ -9,6 +7,9 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 ## 📌 Fonctionnalités
 
 ### 👨‍🏫 Administrateur
+
+<img src="assets/bannerReadme/bannerAdm.png" alt="Bannière de l'application" width="60%" height="40%" />
+
 - Authentification sécurisée
 - Gestion des étudiants (ajout, modification, suppression)
 - Création et gestion des QCM
@@ -16,6 +17,9 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 - Interface de gestion conviviale
 
 ### 👨‍🎓 Étudiant
+
+<img src="assets/bannerReadme/bannerStd.png" alt="Bannière de l'application" width="60%" height="40%" />
+
 - Authentification
 - Accès aux QCM disponibles
 - Passage de QCM (avec minuterie si activée)
