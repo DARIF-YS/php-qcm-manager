@@ -29,10 +29,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 - **Frontend** : HTML5, CSS3, JavaScript, Bootstrap
 - **Serveur local** : XAMPP
 - **Autres outils** : Git, GitHub
-
 ---
-
-#### Développé par
-
-- **Yassine Darif** — [ydarif@insea.ac.ma](mailto:ydarif@insea.ac.ma) — [LinkedIn](https://www.linkedin.com/in/darif-yassine)
-- **Younes Ouchake** — [youchake@insea.ac.ma](mailto:youchake@insea.ac.ma) — [LinkedIn](https://www.linkedin.com/in/younes-ouchake-4b2502282/)
+#### Développé par : 
+- **Yassine Darif** [ydarif@insea.ac.ma](mailto:ydarif@insea.ac.ma) [LinkedIn](www.linkedin.com/in/darif-yassine)
+- **Younes Ouchake** [youchake@insea.ac.ma](mailto:youchake@insea.ac.ma) [LinkedIn](https://www.linkedin.com/in/younes-ouchake-4b2502282/)
