@@ -5,7 +5,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 #### 1. Fonctionnalités principales
 ##### 1.1 Administrateur
 
-<img src="assets/bannerReadme/bannerAdm.png" alt="Bannière de l'application" width="100%" height="450" />
+<img src="assets/bannerReadme/bannerAdm.png" alt="Bannière de l'application" width="100%" height="500" />
 
 - Authentification sécurisée
 - Gestion des étudiants (ajout, modification, suppression)
@@ -15,7 +15,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 
 ##### 1.2 Étudiant
 
-<img src="assets/bannerReadme/bannerStd.png" alt="Bannière de l'application" width="100%" height="450" />
+<img src="assets/bannerReadme/bannerStd.png" alt="Bannière de l'application" width="100%" height="500" />
 
 - Authentification
 - Accès aux QCM disponibles
