@@ -4,7 +4,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 
 ### Administrateur
 
-<img src="assets/bannerReadme/bannerAdm.png" alt="Bannière de l'application" width="70%" height="50%" />
+<img src="assets/bannerReadme/bannerAdm.png" alt="Bannière de l'application" width="100%" height="430" />
 
 - Authentification sécurisée
 - Gestion des étudiants (ajout, modification, suppression)
@@ -14,7 +14,7 @@ Une application web développée en PHP permettant la gestion des QCM (Questionn
 
 ### Étudiant
 
-<img src="assets/bannerReadme/bannerStd.png" alt="Bannière de l'application" width="70%" height="50%" />
+<img src="assets/bannerReadme/bannerStd.png" alt="Bannière de l'application" width="100%" height="430" />
 
 - Authentification
 - Accès aux QCM disponibles
